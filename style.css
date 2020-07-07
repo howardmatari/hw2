@@ -1,0 +1,51 @@
+h1 {
+    color: red;
+}
+
+.btn-warning{
+    background-color: purple;
+}
+
+.nav-li{
+    list-style:none;
+    display: inline;
+    padding-right:15px;
+}
+
+.card-body{
+    background-color: teal;
+    color:white;
+}
+.card{
+    border:0px;
+    margin-bottom:10px;
+}
+
+.pageBackground{
+    background-color: lightgray;
+}
+
+.mainCard{
+    background-color: white;
+    margin: 22px;
+    padding: 20px;
+    border: 1px solid;
+    border-color: lightgray;
+}
+.footer{
+    background-color: grey;
+    color:white;
+    padding: 10px;
+}
+.footer-mini{
+    background-color: teal;
+    height: 5px;;
+}
+.card-img-top{
+    height:200px;
+}
+.logoText{
+    background-color: teal;
+    color: white;
+    padding: 20px;
+}
